@@ -1,0 +1,4 @@
+name: HelloPlugin
+version: '1.0-SNAPSHOTHelloPlayers'
+main: me.prostomax.helloplugin.HelloPlugin
+api-version: '1.20'

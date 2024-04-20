@@ -1,0 +1,4 @@
+name: HelloPlugin
+version: '${project.version}'
+main: me.prostomax.helloplugin.HelloPlugin
+api-version: '1.20'
